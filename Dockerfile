@@ -2,7 +2,7 @@
 
 FROM dddpaul/alpine-base:2.0.2
 
-MAINTAINER Pavel Derendyaev <dddpaul@gmail.com>
+MAINTAINER Ariel Ortmann <ariel.ortmann8@gmail.com>
 
 ENV NGINX_VERSION 1.9.15
 ENV LANG=en_US.utf8
