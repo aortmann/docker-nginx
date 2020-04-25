@@ -9,7 +9,6 @@ While building the following steps are executed:
   * [yaoweibin/nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - add the support of upstream server health checks;
   * and standard http/2 module is enabled.
 * Sample Lua module and configuration module are attached.
-* IPv6 is disabled inside container.
 
 ## Lua-nginx-module
 

@@ -46,5 +46,5 @@ RUN apk --update add build-base openssl-dev pcre-dev zlib-dev geoip-dev luajit-d
     && rm -rf /var/cache/apk/* \
     && rm -rf /tmp/*
 
-# Add files. There is a script to disable IPv6 (requires privileged mode).
+# Add files.
 ADD root /
